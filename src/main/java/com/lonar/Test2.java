@@ -2,7 +2,7 @@ package com.lonar;
 
 public class Test2 {
 
-	public void method1() {
+	public void method_1() {
 		System.out.println("Hello World");
 	}
 }
